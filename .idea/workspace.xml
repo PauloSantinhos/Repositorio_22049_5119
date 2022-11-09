@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a616eb-9c8a-489e-91fa-638f64a64286" name="Changes" comment="1 Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4a616eb-9c8a-489e-91fa-638f64a64286" name="Changes" comment="Acrescentei após oi, Parece que funciona" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668009273749</updated>
-      <workItem from="1668009276266" duration="1621000" />
+      <workItem from="1668009276266" duration="1930000" />
     </task>
     <task id="LOCAL-00001" summary="1 Commit">
       <created>1668009857002</created>
@@ -45,7 +43,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668009857002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Acrescentei após Hello world oi">
+      <created>1668011503309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668011503309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Acrescentei após oi, Parece que funciona">
+      <created>1668011649793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668011649793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +76,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Commit" />
+    <MESSAGE value="Acrescentei após Hello world oi" />
+    <MESSAGE value="Acrescentei após oi, Parece que funciona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acrescentei após oi, Parece que funciona" />
   </component>
 </project>
